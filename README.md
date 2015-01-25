@@ -1,4 +1,8 @@
-# Getting-and-cleaning-data_CP
-Course Project
+# Getting and cleaning data Course Project
 
-## This project
+## Introduction
+This repo contains the R-script for collecting and cleaning data from several text files
+placed in `UCI HAR Dataset` subdirectory. The dataset wasn't pushed on GitHub repo
+because of its size. 
+
+## DataSet
